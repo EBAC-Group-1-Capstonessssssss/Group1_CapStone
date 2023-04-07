@@ -1,1 +1,1 @@
-# Group1_CapStone
+# CapStone_KnowledgeGraph
